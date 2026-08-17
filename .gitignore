@@ -37,4 +37,6 @@
 
  ### Environment variables ###
  .env
- .env.*
+ .env.*target/
+.idea/
+/target/
