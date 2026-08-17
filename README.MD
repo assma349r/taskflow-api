@@ -1,7 +1,9 @@
 # TaskFlow API
 
 TaskFlow is a REST API for task management built with Java, Spring Boot, Spring Data JPA, MySQL and Swagger/OpenAPI.
+## API Documentation
 
+![Swagger UI](docs/swagger.png)
 ## Features
 
 - Create tasks
