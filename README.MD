@@ -71,6 +71,7 @@ Tasks can use priorities such as:
   "dueDate": "2026-08-25",
   "status": "IN_PROGRESS"
 }
+```
 
 ## Project Highlights
 
