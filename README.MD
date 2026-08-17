@@ -71,3 +71,18 @@ Tasks can use priorities such as:
   "dueDate": "2026-08-25",
   "status": "IN_PROGRESS"
 }
+
+## Project Highlights
+
+- RESTful CRUD API
+- Layered architecture with Controller, Service and Repository
+- MySQL persistence with Spring Data JPA
+- Input validation and global exception handling
+- Filtering by status, priority and completion
+- Search by title
+- OpenAPI / Swagger documentation
+- Unit tests with JUnit 5 and Mockito
+
+## Project Status
+
+Completed as a portfolio backend project and ready for further improvements such as authentication, Docker and CI/CD.
